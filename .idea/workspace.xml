@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ff22258-24de-4a2a-820e-5c1fd5af7ff0" name="Changes" comment="ALL the files">
-      <change afterPath="$PROJECT_DIR$/src/Task/Task_15102024/Task3_IncrDecre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task_16102024_Scanner/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task_16102024_Scanner/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task_17102024_IF_Else/Task_Even_Odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task_17102024_IF_Else/Task_If_ElseIf_Else.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,11 +52,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Task01.executor": "Run",
+    "Application.Task1.executor": "Run",
     "Application.Task1_Ternary_Operator.executor": "Run",
+    "Application.Task2.executor": "Run",
     "Application.Task2_Literal.executor": "Run",
     "Application.Task2_Operators.executor": "Run",
     "Application.Task2_PrepoIncreament.executor": "Run",
     "Application.Task3_IncrDecre.executor": "Run",
+    "Application.Task_Even_Odd.executor": "Run",
+    "Application.Task_If_ElseIf_Else.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -64,6 +71,40 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Nawaj.Shaikh\IdeaProjects\ATB9X_Java\src" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.Task2">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.Task_16102024_Scanner.Task1" />
+      <module name="ATB9X_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task.Task_16102024_Scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.Task_16102024_Scanner.Task2" />
+      <module name="ATB9X_Java" />
+      <option name="PROGRAM_PARAMETERS" value="20 30" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task.Task_16102024_Scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -130,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729946585912</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ALL the files">
+      <option name="closed" value="true" />
+      <created>1729947182825</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729947182825</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
