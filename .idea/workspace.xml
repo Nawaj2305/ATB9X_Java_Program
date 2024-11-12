@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ff22258-24de-4a2a-820e-5c1fd5af7ff0" name="Changes" comment="ALL the files">
-      <change afterPath="$PROJECT_DIR$/src/Task/Task_17102024_IF_Else/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Task_17102024_IF_Else/Task2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Task/Task_17102024_IF_Else/Task_Even_Odd.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Task/Task_17102024_IF_Else/Task_If_ElseIf_Else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task_18102024_Switch_Statement/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task_18102024_Switch_Statement/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task_18102024_Switch_Statement/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task_18102024_Switch_Statement/Task_Days.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task_18102024_Switch_Statement/Task_Without_Break.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +56,8 @@
   "keyToString": {
     "Application.Task.Task_17102024_IF_Else.Task1.executor": "Run",
     "Application.Task.Task_17102024_IF_Else.Task2.executor": "Run",
+    "Application.Task.Task_18102024_Switch_Statement.Task1.executor": "Run",
+    "Application.Task.Task_18102024_Switch_Statement.Task2.executor": "Run",
     "Application.Task01.executor": "Run",
     "Application.Task1.executor": "Run",
     "Application.Task1_Ternary_Operator.executor": "Run",
@@ -60,13 +65,17 @@
     "Application.Task2_Literal.executor": "Run",
     "Application.Task2_Operators.executor": "Run",
     "Application.Task2_PrepoIncreament.executor": "Run",
+    "Application.Task3.executor": "Run",
     "Application.Task3_IncrDecre.executor": "Run",
+    "Application.Task_Days.executor": "Run",
     "Application.Task_Even_Odd.executor": "Run",
     "Application.Task_If_ElseIf_Else.executor": "Run",
+    "Application.Task_Without_Break.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Nawaj.Shaikh/IdeaProjects/ATB9X_Java/src"
+    "last_opened_file_path": "C:/Users/Nawaj.Shaikh/IdeaProjects/ATB9X_Java/src",
+    "settings.editor.selected.configurable": "preferences.general"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -189,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730171794321</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ALL the files">
+      <option name="closed" value="true" />
+      <created>1731152806659</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1731152806659</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
