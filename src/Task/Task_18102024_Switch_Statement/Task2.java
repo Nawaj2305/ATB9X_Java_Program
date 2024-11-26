@@ -6,7 +6,7 @@ public class Task2 {
 
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
-        System.out.println("enter any number of Month");
+        System.out.println("enter any Month number");
         int month =sc.nextInt();
 
         switch(month){
