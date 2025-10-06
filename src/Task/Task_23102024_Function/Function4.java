@@ -11,6 +11,7 @@ public class Function4 {
     // Function with parameter & with return type
 
     static int F4(int a,int b){
+
         return a+b;
     }
 }

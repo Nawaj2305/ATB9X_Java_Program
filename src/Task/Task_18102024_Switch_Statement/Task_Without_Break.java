@@ -3,7 +3,7 @@ package Task.Task_18102024_Switch_Statement;
 public class Task_Without_Break {
 
     public static void main(String[] args) {
-        int itemcode=001;
+        int itemcode=003;
 
         switch(itemcode){
 

@@ -11,7 +11,9 @@ public class Function3 {
     //Functions With Parameters and Without Return Type (eg.Main function)
 
     static void F3(String Name){
+
         System.out.println("Your name is "+Name);
+
     }
 
     static void FN(String Firstname,String Lastname ){

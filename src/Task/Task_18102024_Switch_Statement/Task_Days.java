@@ -26,7 +26,7 @@ public class Task_Days {
                 System.out.println("Its a Friday");
                 break;
             case 6:
-                System.out.println("Its a Satturday");
+                System.out.println("Its a Saturday");
                 break;
             case 7:
                 System.out.println("Its a Sunday");
